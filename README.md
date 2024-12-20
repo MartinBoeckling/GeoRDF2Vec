@@ -12,3 +12,4 @@ In order to generate the relevant subset of DBPedia, please run first the follow
 ### KGBench download
 The instructions for generating the KGbench repository our outlined on their [kgbench website](http://kgbench.info) and [GitHub repository](https://github.com/pbloem/kgbench-loader). For the dmg777k move the generated datasets to [data/kgbench_dmg777k](data/kgbench_dmg777k).
 ## GeoRDF2Vec implementation
+The [script](geo_rdf2vec.py) for GeoRDF2Vec can be found here which implements and runs both GeoRDF2Vec as well as normal RDF2Vec. 
